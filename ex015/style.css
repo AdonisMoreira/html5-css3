@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    background-color: beige; font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  color: aquamarine; background-color: black; 
+}
+p{
+    text-align: justify;
+}
